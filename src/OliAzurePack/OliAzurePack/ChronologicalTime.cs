@@ -38,7 +38,7 @@ namespace OliAzurePack
             public static string GetReverseChronologicalValue(DateTime dateTime)
             {
                 var s = $"{DateTime.MaxValue.Ticks - dateTime.Ticks:D19}";
-                return s;
+                return s; 
             }
 
             public static string GetChronologicalValue(DateTime dateTime)
