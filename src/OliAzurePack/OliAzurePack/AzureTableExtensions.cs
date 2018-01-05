@@ -14,7 +14,6 @@ namespace OliAzurePack
 
     public static class AzureTableExtensions
     {
-
         // Applies a predicate to the queryable that limits results to entities
         // that have a row key that begins with the specified substring.
         public static IQueryable<T> WhereRowKeyStartsWith<T>(this IQueryable<T> query, string startsWith) where T : ITableEntity
