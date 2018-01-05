@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OliAzurePack</id>
+    <version>1.0.0</version>
+    <title>OliAzurePack</title>
+    <authors>myget@luchting.de</authors>
+    <owners>Frederic Luchting</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Handy tools and snippets</description>
+    <releaseNotes>Initial example class with static helpers for chronological values</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>azure oli</tags>
+  </metadata>
+</package>
