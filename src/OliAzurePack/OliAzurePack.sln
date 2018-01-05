@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OliAzurePack", "OliAzurePac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2695B678-6005-41D4-A653-78759F26C4F3}"
 	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
 		OliAzurePack\OliAzurePack.nuspec = OliAzurePack\OliAzurePack.nuspec
 	EndProjectSection
 EndProject
