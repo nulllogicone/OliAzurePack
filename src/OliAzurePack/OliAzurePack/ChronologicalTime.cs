@@ -8,6 +8,7 @@ namespace OliAzurePack
 {
         !! BREAK IT
         !! for GitHub Azure Pipelines test
+        **********************************
 
         public static class ChronologicalTime
         {
