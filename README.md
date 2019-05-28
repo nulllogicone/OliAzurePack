@@ -1,8 +1,8 @@
 
 # OliAzurePack
-handy toolbox with snippets
+handy toolbox with snippets for experiments, not for production!
 
-[GitHub with Azure DevOps build pipeline and pull request]
+[GitHub with Azure DevOps build pipeline and pull request]  
 https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
 
 [![Build Status](https://dev.azure.com/nulllogicone/Experiment/_apis/build/status/Experiment-CI-GitHub%20OliAzurePack?branchName=master)](https://dev.azure.com/nulllogicone/Experiment/_build/latest?definitionId=33&branchName=master)
